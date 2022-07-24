@@ -1,4 +1,4 @@
-package com.example.learnjava;
+package com.example.learnjava.encapsulation;
 
 public class EncapsulationExample {
 
